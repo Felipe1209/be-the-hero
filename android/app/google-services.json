@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459126943891",
+    "project_id": "bethehero-19499",
+    "storage_bucket": "bethehero-19499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459126943891:android:757473520f2cd353cf5d66",
+        "android_client_info": {
+          "package_name": "com.example.be_the_hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459126943891-tkuj6t9cqvj67ls4kcknees93ogstiq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdeM-UBs8XtjimIkeRt2O20vHBBgi3O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459126943891-tkuj6t9cqvj67ls4kcknees93ogstiq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
